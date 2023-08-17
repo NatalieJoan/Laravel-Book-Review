@@ -15,7 +15,7 @@ Logged-in users have the ability to write and post reviews for specific books. A
 The app employs a rating system to allow users to express their opinions more effectively. Ratings are aggregated to calculate an average rating for each book.
 
 ## Installation
-1. Clone this repository to your local environment: git clone [https://github.com/yourusername/book-review-app.git](https://github.com/NatalieJoan/Laravel-Book-Review.git)
+1. Clone this repository to your local environment: git clone https://github.com/NatalieJoan/Laravel-Book-Review.git
 2. Navigate to the project directory: cd book-review-app
 3. Install PHP dependencies: composer install
 4. Configure your .env file with database connection details and other settings.
