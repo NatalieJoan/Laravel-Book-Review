@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-### Book Review App - README
+# Book Review App
 Welcome to the Book Review App README! This application allows users to post comments, reviews, and ratings for various books on a scale of 1 to 5. The app is built using the Laravel framework, providing a seamless and user-friendly experience for managing and sharing thoughts about different books.
 
 ## Features
